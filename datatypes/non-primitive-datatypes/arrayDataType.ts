@@ -106,13 +106,3 @@ function getNumbers(): number[] {
 
 let nums = getNumbers();
 console.log(nums);
-
-// - Type Guarding
-function isStringArray(arr: unknown): arr is string[] {
-  return Array.isArray(arr) && arr.every((el) => typeof el === "string");
-}
-
-let unknownArr: unknown = ["a", "b"];
-if (isStringArray(unknownArr)) {
-  console.log("It's a string array.");
-}
