@@ -21,3 +21,4 @@ Thumbs.db
 
 # VSCode settings (optional)
 .vscode/
+git commit -m "first commit"
