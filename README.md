@@ -7,15 +7,15 @@ This repo contains categorized examples, code snippets, and practice exercises t
 
 ## 📚 Topics Covered
 
-- ✅ TypeScript Basics
-- ✅ Primitive & Non-Primitive Data Types
-- ⏳ Type Inference and Annotations
-- ⏳ Type Aliases and Interfaces
-- ⏳ Enums
-- ⏳ Functions and Return Types
-- ⏳ Classes and Access Modifiers
-- ⏳ Generics
-- ⏳ Advanced Types (Union, Intersection, Literal)
+- TypeScript Basics
+- Primitive & Non-Primitive Data Types
+- Type Inference and Annotations
+- Type Aliases and Interfaces
+- Enums
+- Functions and Return Types
+- Classes and Access Modifiers
+- Generics
+- Advanced Types (Union, Intersection, Literal)
 
 > This list will grow as I continue learning and exploring TypeScript.
 
