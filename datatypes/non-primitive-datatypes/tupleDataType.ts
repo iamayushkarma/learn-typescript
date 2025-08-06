@@ -9,8 +9,8 @@ console.log("Name:", person[0]); //> Ayush
 console.log("Age:", person[1]); //> 22
 
 //> Tuple with more elements
-let userInfo: [string, number, boolean] = ["Rehan", 30, true];
-console.log(userInfo); //> ["Rehan", 30, true]
+let userInfo: [string, number, boolean] = ["Messi", 30, true];
+console.log(userInfo); //> ["Messi", 30, true]
 
 //> Accessing tuple values
 let name = userInfo[0]; //> string
