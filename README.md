@@ -28,7 +28,7 @@ This repo contains categorized examples, code snippets, and practice exercises t
 git clone https://github.com/iamayushkarma/learn-typescript.git
 
 # Navigate into the directory
-cd LEARN-TYPESCRIPT
+cd learn-typescript
 
 # Install dependencies (if any)
 npm install
